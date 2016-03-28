@@ -2,7 +2,7 @@
  * led_switch_001.c
  *
  * Created: 25-03-2016 00:16:33
- * Author : Owner
+ * Author : Aniruddha Ranade
  */ 
 
 #include <avr/io.h>
